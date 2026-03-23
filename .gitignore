@@ -1,0 +1,40 @@
+# Vivado build artifacts
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.srcs/
+*.xpr.bak
+*.jou
+*.log
+*.str
+*.debug
+
+# Vivado generated
+.Xil/
+*.bit
+*.ltx
+
+# Vitis build artifacts
+*/build/
+*/Release/
+*/Debug/
+*/_ide/
+*/platform/export/
+*/.metadata/
+*/.analytics/
+*/RemoteSystemsTempFiles/
+
+# Binary/elf files
+*.elf
+*.o
+*.d
+
+# Bitstream (optional - comment out if you want to keep it)
+*.bit
+
+# OS
+.DS_Store
+Thumbs.db
