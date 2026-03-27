@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/sriram/hw2b/vitis/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/sdps/src
+# Install script for directory: D:/240/hw2b/vitis/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/sdps/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/AMDDesignTools/2025.2/Vitis/gnu/aarch32/nt/gcc-arm-none-eabi/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/2025.2/Vitis/gnu/aarch32/nt/gcc-arm-none-eabi/bin/arm-none-eabi-objdump.exe")
 endif()
 

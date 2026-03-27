@@ -1,4 +1,4 @@
-C:/Users/sriram/hw2b/vitis/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
-C:/Users/sriram/hw2b/vitis/platform/zynq_fsbl/build/CMakeFiles/print_build_info.dir
-C:/Users/sriram/hw2b/vitis/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
-C:/Users/sriram/hw2b/vitis/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
+D:/240/hw2b/vitis/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+D:/240/hw2b/vitis/platform/zynq_fsbl/build/CMakeFiles/print_build_info.dir
+D:/240/hw2b/vitis/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+D:/240/hw2b/vitis/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir

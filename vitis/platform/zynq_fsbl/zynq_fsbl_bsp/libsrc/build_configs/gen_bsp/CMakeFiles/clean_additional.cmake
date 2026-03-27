@@ -3,17 +3,17 @@ cmake_minimum_required(VERSION 3.16)
 
 if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "")
   file(REMOVE_RECURSE
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\diskio.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\ff.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\ffconf.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\sleep.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xilffs.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xilffs_config.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xilrsa.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xiltimer.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xtimer_config.h"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\lib\\libxilffs.a"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\lib\\libxilrsa.a"
-  "C:\\Users\\sriram\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\lib\\libxiltimer.a"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\diskio.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\ff.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\ffconf.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\sleep.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xilffs.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xilffs_config.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xilrsa.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xiltimer.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\include\\xtimer_config.h"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\lib\\libxilffs.a"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\lib\\libxilrsa.a"
+  "D:\\240\\hw2b\\vitis\\platform\\zynq_fsbl\\zynq_fsbl_bsp\\lib\\libxiltimer.a"
   )
 endif()
